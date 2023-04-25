@@ -1,0 +1,11 @@
+{
+  "name": "ynab",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Sören Liebich <soeren@liebich.family>",
+  "license": "MIT"
+}
