@@ -1,0 +1,7 @@
+{
+  "name": "@liebsoer/ynab-client",
+  "version": "0.0.1",
+  "dependencies": {
+    "ynab": "^1.49.0"
+  }
+}
