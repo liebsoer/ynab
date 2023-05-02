@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "importHelpers": true,
+    "module": "commonjs",
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "target": "ES6"
+  },
+  "include": ["src/**/*"],
+  "paths": {
+    "@liebsoer/ynab-client": ["../../packages/ynab-client/src/index.ts"],
+    "@liebsoer/ynab-config": ["../../packages/ynab-config/src/index.ts"]
+  }
+}

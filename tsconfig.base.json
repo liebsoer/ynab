@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@liebsoer/ynab-client": ["packages/ynab-client/src/index.ts"],
+      "@liebsoer/ynab-config": ["packages/ynab-config/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
